@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Style.qml</file>
+        <file>Components/PrefsProgressBar.qml</file>
+        <file>Assets/Cover.png</file>
+        <file>Components/IconLabel.qml</file>
+        <file>Components/IconImage.qml</file>
+        <file>Components/TimeShow.qml</file>
+        <file>Components/PrefsSwitch.qml</file>
+        <file>fonts/CodecPro-Italic.ttf</file>
+        <file>fonts/CodecPro-Regular.ttf</file>
+        <file>fonts/fontawesome.otf</file>
+        <file>fonts/Lato-Bold.ttf</file>
+        <file>fonts/Lato-Regular.ttf</file>
+        <file>Components/PrefsLabel.qml</file>
+        <file>Components/OutLinedLabel.qml</file>
+        <file>Assets/light1.png</file>
+        <file>Assets/light2.png</file>
+        <file>Assets/disc.png</file>
+        <file>Assets/spotify.png</file>
+        <file>Assets/youtube.png</file>
+        <file>Components/PrefsSlider.qml</file>
+        <file>Assets/BackGroundApp.jpg</file>
+        <file>Screens/HomeScreen.qml</file>
+    </qresource>
+</RCC>
