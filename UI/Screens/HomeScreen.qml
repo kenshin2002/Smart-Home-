@@ -12,8 +12,6 @@ Page{
          id: dateitem
          anchors.left: parent.left
          anchors.leftMargin: 50
-         anchors.top:parent.top
-         anchors.topMargin: 50
     }
     footer: RowLayout{
         Layout.fillWidth: true

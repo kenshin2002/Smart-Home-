@@ -23,5 +23,6 @@
         <file>Components/PrefsSlider.qml</file>
         <file>Assets/BackGroundApp.jpg</file>
         <file>Screens/HomeScreen.qml</file>
+        <file>Model/HomeModel.qml</file>
     </qresource>
 </RCC>
